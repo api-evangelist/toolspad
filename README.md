@@ -64,5 +64,96 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ToolsPad is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://toolspad.com
+ToolsPad provides a connected workspace that integrates CRM, sales, scheduling, delivery, billing, publishing and everyday operations for small and service businesses. With 21 built‑in applications such as Notes, Whiteboards, Tasks, Lead Forms, Surveys, Polls, Landing Pages, Subscription Tracker, Estimates & Quotes, Invoice Maker, Testimonial Collector, Business Calculators, Appointment Scheduling, Time Tracking, Smart Links, CRM, Opportunities, QR Code Generator, Dashboards, Documents & Media, and Blogs, it enables teams to run their entire workflow from a single platform, offering a free plan with 30‑day Premium trial and paid tiers starting at $19 per workspace.
+
+**Areas:** CRM · SaaS · Productivity · Business · Workspace
+
+## ToolsPad on APIs.io
+
+Everything profiled for ToolsPad is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/toolspad/](https://apis.io/providers/toolspad/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Toolspad API](https://apis.io/apis/toolspad/toolspad-api/) — Run your business from one connected workspace
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Toolspad Authentication](https://apis.io/security/toolspad/toolspad-authentication/)
+- [Toolspad Domain Security](https://apis.io/security/toolspad/toolspad-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Toolspad Scopes](https://apis.io/scopes/toolspad/toolspad-scopes/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://toolspad.com)
+- [Pricing](https://toolspad.com/pricing)
+- [Sign up](https://app.toolspad.com/signup)
+- [Terms of service](https://toolspad.com/terms)
+- [Privacy policy](https://toolspad.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 18.1** — emerging · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 6.4 |
+| Access clarity | 44.7 |
+
+**Agent readiness 25.1** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 29.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/toolspad/](https://apis.io/providers/toolspad/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ToolsPad: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/toolspad/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
